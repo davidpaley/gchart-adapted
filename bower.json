@@ -1,0 +1,13 @@
+{
+  "name": "gchart-adapted-str",
+  "homepage": "https://github.com/deivay/gchart-adapted",
+  "authors": [
+    "davidpaley <paley@strands.com>"
+  ],
+  "description": "google chart adapted for Strands Aggregator Dashboard",
+  "main": "gchart.js",
+  "keywords": [
+    "gchart"
+  ],
+  "license": "MIT"
+}
